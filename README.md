@@ -29,10 +29,10 @@ I like working out the best solution for a problem. I love building tiny browser
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [feathers port to deno](https://github.com/feathersjs/feathers/pull/2828)  
+- 🔭 I’m currently working on [my own reactivity implementation](https://github.com/apollo79/reactivity) 
   
 
-- 🌱 I’m currently learning [solid](https://solidjs.com)  
+- 🌱 I’m currently learning [how to build a reactivity library](https://github.com/apollo79/reactivity) 😉 
   
 
 - ⚡ Fun fact: I like `true` over `false`  
